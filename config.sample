@@ -1,0 +1,19 @@
+[TestConfig] # don't edit this line
+
+
+### set switch path for which filter is being tested
+### this needs to be updated when filters are switched out
+### lab path 1 - Group G filter
+#path = lab1
+
+### lab path 2 - no filter
+#path = lab2
+
+### OTA path 1 - Group G filter
+#path = ota1
+
+### OTA path 2 - Group E filter
+path = ota2
+
+### OTA path 3 - no filter
+#path = ota3
